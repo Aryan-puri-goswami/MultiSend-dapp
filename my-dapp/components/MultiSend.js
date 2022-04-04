@@ -1,5 +1,5 @@
 
-// Note :  this code's private key and addresses are only compatible with a ganache workshop named as "Dapp-projects"
+// Note :  this code's private key and addresses are only compatible with my local blockchain"
 
 import { useState, useEffect } from 'react'
 import { ethers, Wallet } from 'ethers'
